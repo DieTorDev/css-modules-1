@@ -1,0 +1,44 @@
+.stat{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 19.6875rem;
+    margin: auto;
+    border-radius: 10px;
+    font-size: 1rem;
+    padding-inline: 1rem;
+}
+
+.stat_title{
+    padding-right: 7.5rem;
+}
+
+.value_info{
+    color: #303B59;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.value_total{
+    color: #303b597a;
+}
+
+.red{
+    background-color: #fff6f6;
+    color: #FF5555;
+}
+
+.yellow{
+    background-color: #fffbf4;
+    color: #FFB21E;
+}
+
+.green{
+    background-color: #f2fcf9;
+    color: #00BB8F;
+}
+
+.blue{
+    background-color: #f3f4fe;
+    color: #1125D6;
+}

@@ -1,0 +1,52 @@
+.result_container{
+    background: linear-gradient(180deg, #6943FF 0%, #2F2CE9 100%);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    font-family: "Hanken Grotesk", sans-serif;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+
+.result_title{
+    color: #CAC9FF;
+    font-size: 1.125rem;
+    margin-top: 1.5625rem;
+}
+
+.result_points{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: linear-gradient(180deg, #4D21C9 0%, #4e21c900 100%);
+}
+
+.result_points_main{
+    color: white;
+    font-size: 3.5rem;
+    font-weight: bolder;
+}
+
+.result_points_second{
+    color: #cac9ff9a;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.result_valoration{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 1.5rem;
+}
+
+.result_msg{
+    color: #CAC9FF;
+    font-size: 1rem;
+    margin-inline: 3.5rem;
+    margin-bottom: 2.5rem;
+}
