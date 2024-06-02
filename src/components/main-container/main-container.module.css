@@ -1,0 +1,11 @@
+@media (min-width: 769px) {
+    .main_container{
+        width: 46rem;
+        height: 32rem;
+        display: flex;
+        margin-inline: auto;
+        margin-top: 15rem;
+        border-radius: 1.25rem;
+        overflow: hidden;
+    }
+  }
